@@ -8,5 +8,7 @@ x=5
 
 if(x<1):
     print("232131")
+elif(x==2):
+    print("please deposet five coins")
 else:
     print("erro")
